@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600179820 source:c:\users\sarna\documents\codeblocks\arrinsrt\main.c
+	<stdio.h>
+	<stdlib.h>
+
