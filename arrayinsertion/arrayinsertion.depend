@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600168115 source:/home/sarnav/cpp/arrayinsertion/main.c
+	<stdio.h>
+	<stdlib.h>
+
